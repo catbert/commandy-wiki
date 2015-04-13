@@ -1,0 +1,2 @@
+# Commandy #
+Commandy is not just a simple launcher, you are able to **run** applications, **switch** windows, **calculate** simple math expressions, **browse** files, **search** the web and many more by installing PlugIns.
